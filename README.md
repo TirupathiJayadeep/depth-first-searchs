@@ -118,7 +118,6 @@ print(traversedpath)
 
 ```
 ## Output
-<img width="751" height="619" alt="image" src="https://github.com/user-attachments/assets/b309adf6-820e-4cf7-9ad8-a1724b43d10e" />
 <img width="655" height="312" alt="image" src="https://github.com/user-attachments/assets/83424960-511c-4ffb-9408-7d7651e0b822" />
 
 
